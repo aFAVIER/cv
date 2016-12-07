@@ -1,0 +1,78 @@
+body {
+	background-color: #4BB5C1;
+
+}
+
+#photo img {
+	display: block;
+	width: 200px;
+	margin:10px auto;
+	box-shadow: 0 0 2em black;
+}
+
+#titre {
+	padding-top:  70px;
+	text-align: center;
+	font-family: sans-serif;
+	
+}
+
+#cv {
+	box-shadow: 0 0 2em black;
+	margin-top: -80px;
+	background-color: #7FC6BC;
+
+}
+
+#t1 {
+	display: inline-flex;
+	padding-left: 20px;
+	width: 500px;
+}
+
+#t2 {
+ 	display: inline-flex;
+	padding-left: 100px;
+	padding-right: 100px;
+ 	width: 500px;
+}
+
+#t3 {
+	display: inline-flex;
+	padding: 20px;
+	
+	width: 500px;
+}
+
+#contact img {
+	width: 20px;
+	text
+}
+
+#contact {
+	position: absolute;
+	display: block;
+	box-shadow: 0 0 2em black; /*ombrage de la box */
+	background-color: #E6E2AF; /* couleur de fond*/
+	margin-top: -150px; /*marge ext haut*/
+	margin-left: 20px; /*marge ext gauche*/
+	padding-left: 15px; /* marge int gauche*/
+	padding-right: 15px; /*marge int droite*/
+}
+
+#contact h3 {
+	font-family: sans-serif;
+}
+
+#f1 {
+	margin : auto;
+	text-align: center;
+}
+
+#f1 td {
+	width: 1000px;
+}
+
+h2 {
+	font-family: sans-serif;
+}
